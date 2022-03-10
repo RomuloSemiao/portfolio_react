@@ -1,0 +1,32 @@
+.projects {
+  margin: 120px auto;
+  width: 1080px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  h3 {
+    align-self: center;
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+
+  div {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  img {
+    opacity: 0.5;
+    transition: all 0.4s;
+  }
+
+  img:hover {
+    cursor: pointer;
+    transform: translateY(-5px) translateX(0px);
+    opacity: 1;
+  }
+}

@@ -1,0 +1,24 @@
+.about {
+  margin: 0 auto;
+  width: 1080px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 0;
+
+  .flex {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    display: inline;
+  }
+
+  p {
+    font-size: 36px;
+  }
+}

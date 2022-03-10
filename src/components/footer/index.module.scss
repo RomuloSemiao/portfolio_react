@@ -1,0 +1,18 @@
+.bgFooter {
+  background-color: #00458f;
+  width: 100%;
+  padding: 10px 0;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 1080px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  img {
+    margin-left: 20px;
+    position: static;
+  }
+}
