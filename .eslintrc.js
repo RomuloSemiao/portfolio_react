@@ -26,5 +26,6 @@ module.exports = {
     'global-require': 'off',
     'import/prefer-default-export': 'off',
     'react/no-unescaped-entities': 'off',
+    'import/no-cycle': 'off',
   },
 };

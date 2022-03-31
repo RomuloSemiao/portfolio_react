@@ -22,3 +22,42 @@
     text-align: right;
   }
 }
+
+@media only screen and (max-width:799px) {
+  .softSkills {
+    width: 380px;
+    padding: 30px 0;
+
+    h3{
+      font-size: 14px;
+    }
+
+    p{
+      font-size: 18px;
+    }
+
+    img {
+      display: none;
+    }
+  }
+
+}
+
+@media only screen and (min-width:800px) and (max-width:1120px) {
+  .softSkills {
+    width: 720px;
+
+    h3{
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    p{
+      font-size: 36px;
+    }
+
+    img {
+      display: none;
+    }
+  }
+}

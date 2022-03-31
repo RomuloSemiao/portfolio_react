@@ -4,7 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 60px 0;
+  padding: 30px 0;
 
   .flex {
     display: flex;
@@ -22,3 +22,46 @@
     font-size: 36px;
   }
 }
+
+@media only screen and (max-width:799px) {
+  .about {
+    width: 380px;
+
+    img {
+      display: none;
+    }
+
+    h3 {
+      font-size: 14px;
+      margin-bottom: 0 5px 5px 5px;
+      align-items: center;
+    }
+
+    p {
+      align-items: center;
+      font-size: 18px;
+      margin: 0 5px;
+    }
+  }
+}
+
+@media only screen and (min-width:800px) and (max-width:1120px) {
+  .about {
+    width: 720px;
+    padding: 15px 0;
+
+    img {
+      display: none;
+    }
+
+    h3 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
+
+    p {
+      font-size: 36px;
+    }
+  }
+}
+
