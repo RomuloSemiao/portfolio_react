@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio_romulosemiao/static/css/main.a9062a7a.css",
-    "main.js": "/portfolio_romulosemiao/static/js/main.5a8d0e62.js",
-    "static/media/bik-craft 1.svg": "/portfolio_romulosemiao/static/media/bik-craft 1.0fd8047b452713884f7470ab6eca8551.svg",
-    "static/media/personal-img.svg": "/portfolio_romulosemiao/static/media/personal-img.6fe19f4591d9548b6dbf2d1cba89942a.svg",
-    "static/media/animais-fantasticos 1.svg": "/portfolio_romulosemiao/static/media/animais-fantasticos 1.a4a2816c7709b163f77fe13dbeda67a9.svg",
-    "static/media/calculadora 1.svg": "/portfolio_romulosemiao/static/media/calculadora 1.e7efa3d246d9dfebc47ff5190f168e39.svg",
-    "static/media/lampada-de-ideia.svg": "/portfolio_romulosemiao/static/media/lampada-de-ideia.5421ae8e65c871c7d6a8d806d5c32173.svg",
-    "static/media/relogio 1.svg": "/portfolio_romulosemiao/static/media/relogio 1.100e5982153b629e1b471548eefb2f04.svg",
-    "static/media/React.svg": "/portfolio_romulosemiao/static/media/React.777466483fbe1c784221660af7755139.svg",
-    "static/media/github.svg": "/portfolio_romulosemiao/static/media/github.5339c9c41ab0c0858f377ddae0a5ede7.svg",
-    "static/media/linkedin.svg": "/portfolio_romulosemiao/static/media/linkedin.5fb718590b029452060d97d92bb8adc0.svg",
-    "static/media/HTML.svg": "/portfolio_romulosemiao/static/media/HTML.b7de5417d72600260b9f88a6345bc948.svg",
-    "static/media/CSS.svg": "/portfolio_romulosemiao/static/media/CSS.e1574a282a87e259658393b434015810.svg",
-    "static/media/JavaScript.svg": "/portfolio_romulosemiao/static/media/JavaScript.bd8f0a84b08245d4ab0245359a3f11db.svg",
-    "static/media/TypeScript.svg": "/portfolio_romulosemiao/static/media/TypeScript.5d268f10d9a820dc3593b2e2dfa7b9c5.svg",
+    "main.css": "/portfolio_romulosemiao/static/css/main.81b33e9c.css",
+    "main.js": "/portfolio_romulosemiao/static/js/main.aecff906.js",
+    "static/media/bik-craft 1.svg": "/portfolio_romulosemiao/static/media/bik-craft 1.ec93669524f5c5ec07e918115b7e5087.svg",
+    "static/media/personal-img.svg": "/portfolio_romulosemiao/static/media/personal-img.eb54d1a14db9e2de385a505b7752c0df.svg",
+    "static/media/animais-fantasticos 1.svg": "/portfolio_romulosemiao/static/media/animais-fantasticos 1.033442cc603414e5269a5c3c3203b590.svg",
+    "static/media/calculadora 1.svg": "/portfolio_romulosemiao/static/media/calculadora 1.96d62fc325bf83c1d188488e6d6be406.svg",
+    "static/media/lampada-de-ideia.svg": "/portfolio_romulosemiao/static/media/lampada-de-ideia.6a1de7a02577e18bfe389591bd2ed70d.svg",
+    "static/media/relogio 1.svg": "/portfolio_romulosemiao/static/media/relogio 1.b0c73ea748716421b917c53faa6410d3.svg",
+    "static/media/React.svg": "/portfolio_romulosemiao/static/media/React.6fd1c162c006def266de61be2043eddc.svg",
+    "static/media/github.svg": "/portfolio_romulosemiao/static/media/github.00c700c5c145958825a0ece9ac2a45a0.svg",
+    "static/media/linkedin.svg": "/portfolio_romulosemiao/static/media/linkedin.e2ecfc5a157aded478522dbb10930f87.svg",
+    "static/media/HTML.svg": "/portfolio_romulosemiao/static/media/HTML.2c5c41230b15328b66dd2b74910334a3.svg",
+    "static/media/CSS.svg": "/portfolio_romulosemiao/static/media/CSS.85e11b9bf7dbc62db18aae3929c887e6.svg",
+    "static/media/JavaScript.svg": "/portfolio_romulosemiao/static/media/JavaScript.67e74da3c030d891e235a9a4d0b8de3c.svg",
+    "static/media/TypeScript.svg": "/portfolio_romulosemiao/static/media/TypeScript.b237df1aa5f9d85c7e9c1257eb4b8bef.svg",
     "index.html": "/portfolio_romulosemiao/index.html",
-    "main.a9062a7a.css.map": "/portfolio_romulosemiao/static/css/main.a9062a7a.css.map",
-    "main.5a8d0e62.js.map": "/portfolio_romulosemiao/static/js/main.5a8d0e62.js.map"
+    "main.81b33e9c.css.map": "/portfolio_romulosemiao/static/css/main.81b33e9c.css.map",
+    "main.aecff906.js.map": "/portfolio_romulosemiao/static/js/main.aecff906.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9062a7a.css",
-    "static/js/main.5a8d0e62.js"
+    "static/css/main.81b33e9c.css",
+    "static/js/main.aecff906.js"
   ]
 }
