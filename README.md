@@ -14,4 +14,4 @@ Para a estilização foi utilizado Sass e a biblioteca React Reveal.
 ### O Projeto
 
 **Para Macbook**
-<img src="./print/print"/>
+<img src="./print/print.jpg" width="100%">
