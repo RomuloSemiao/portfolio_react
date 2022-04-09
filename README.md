@@ -1,5 +1,5 @@
 # portfolio_romulosemiao
-Portfolio feito em React, usando Sass e biblioteca de animação.
+Portfolio feito em React utilizando a versão "17.0.2", Sass "1.49.9" e a biblioteca React Reveal para animações na versão "1.2.2".
 
 ## Pré-codificação
 
