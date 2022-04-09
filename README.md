@@ -10,3 +10,8 @@ Link: <a href="https://www.figma.com/file/PxjCXj4Dq0F8G5yW0pTizX/Landing-Page?no
 ## Sobre o Código
 Projeto feito em ReactJS usando os conteitos de  módulos, clean code e organização de arquivos.<br/>
 Para a estilização foi utilizado Sass e a biblioteca React Reveal.
+
+### O Projeto
+
+**Para Macbook**
+<img src="./print/print"/>
