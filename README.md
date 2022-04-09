@@ -13,5 +13,14 @@ Para a estilização foi utilizado Sass e a biblioteca React Reveal.
 
 ### O Projeto
 
-**Para Macbook**
+**Layout para Macbook**
+<br/>
 <img src="./print/print.jpg" width="100%">
+
+**Layout para Ipad**
+<br/>
+<img src="./print/print_ipad.jpg" width="100%">
+
+**Layout para Iphone**
+<br/>
+<img src="./print/print_iphone.jpg" width="100%">
