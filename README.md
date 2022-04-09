@@ -19,8 +19,8 @@ Para a estilização foi utilizado Sass e a biblioteca React Reveal.
 
 **Layout para Ipad**
 <br/>
-<img src="./print/print_ipad.jpg" width="100%">
+<img src="./print/print_ipad.jpg" width="50%">
 
 **Layout para Iphone**
-<br/>
-<img src="./print/print_iphone.jpg" width="100%">
+ <br/>
+<img src="./print/print_iphone.jpg" width="50%">
